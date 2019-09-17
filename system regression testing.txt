@@ -1,0 +1,37 @@
+System testing
+--------------------- 
+--------------------- 
+System Testing: is done by a professional testing agent on the completed software product before it is introduced to the market.
+
+
+
+
+
+
+Functional Testing
+--------------------------
+FUNCTIONAL TESTING is a type of software testing 
+where by the system is tested against the functional requirements/specifications.
+Functions (or features) are tested by feeding them input and examining the output.
+Functional testing ensures that the requirements are properly satisfied by the application.
+
+Adhoc testing
+------------------
+Adhoc testing is defined as an informal testing type with an aim to break the system.
+This Software Testing type is usually an unplanned activity.
+It does not follow any test design techniques to create test cases. 
+In fact it does not create test cases altogether & performed without planning and documentation
+
+
+
+
+Sanity testing
+-------------------
+Sanity testing is the subset of regression testing 
+and it is performed when we do not have enough time for doing testing.
+Sanity testing is the surface level testing where QA engineer verifies that all the menus,
+functions, commands available in the product and project are working fine.
+
+Regression testing 
+--------------------------
+Regression Testing is defined as a type of software testing to confirm that a recent program or code change has not adversely affected existing features.
